@@ -13,3 +13,6 @@ This is base file contains base settings.
 
 6.Urls.py 
 7.Aldryn
+
+Project requirement has been  satisfied.
+
