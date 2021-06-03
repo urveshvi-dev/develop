@@ -6,3 +6,5 @@ This is base file contains base settings.
 
 1.Base.py
 2.Models.py
+
+3.View.py
