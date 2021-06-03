@@ -10,3 +10,5 @@ This is base file contains base settings.
 3.View.py
 
 4.Serializer.py
+
+Project requirement has been  satisfied.
